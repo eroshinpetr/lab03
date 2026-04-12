@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Program asks user for a name and prints greeting.
+// The program asks for the user's name, then prints a greeting!
 int main() {
   std::string name;
   std::cout << "Enter your name: ";
