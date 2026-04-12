@@ -2,7 +2,8 @@
 #include <string>
 
 // The program asks for the user's name, then prints a greeting!
-int main() {
+int main()
+{
   std::string name;
   std::cout << "Enter your name: ";
   std::cin >> name;
